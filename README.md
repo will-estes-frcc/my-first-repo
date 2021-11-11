@@ -1,2 +1,2 @@
 # my-first-repo
-My second Commit
+Im updating this for class!
